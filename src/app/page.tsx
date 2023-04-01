@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-           Welcome to 5minslearn!
+           Welcome to my space @profAkymbo!
           </h2>
 
       <div className={styles.center}>
@@ -34,7 +34,7 @@ export default function Home() {
           <h2 className={inter.className}>
             5minslearn <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>Learn tech in 5mins</p>
+          <p className={inter.className}>Welcome to my home @profAkymbo</p>
         </a>
 
         
